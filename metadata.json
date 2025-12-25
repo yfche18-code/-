@@ -1,0 +1,7 @@
+{
+  "name": "ArtStudio - 海马体艺术写真生成器",
+  "description": "上传您的生活照，通过 AI 转化为“海马体”风格的高端商业艺术肖像，支持多种光影风格并保留人物真实特征。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
